@@ -16,3 +16,6 @@ Git example for agile web class
 11. 用git pull --rebase来更新当前repo
 12. 处理冲突
 13. 用git push将改动同步到远端
+14. 用git checkout -b新建分支
+15. 用git pull --rebase来保持分支与主干的同步
+16. 用git rebase的方式将分支的代码合并进入主干
