@@ -1,6 +1,6 @@
 # git-example
 Git example for agile web class
-
+modify readme
 上机练习任务
 
 1. 用git clone操作获取示例repo
